@@ -1,0 +1,24 @@
+@font-face {
+  font-family: Charade;
+  src: url("https://db.onlinewebfonts.com/t/c37ebc407f70aab40021fa0177b57637.eot");
+  src: url("https://db.onlinewebfonts.com/t/c37ebc407f70aab40021fa0177b57637.eot?#iefix") format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/c37ebc407f70aab40021fa0177b57637.woff2") format("woff2"), url("https://db.onlinewebfonts.com/t/c37ebc407f70aab40021fa0177b57637.woff") format("woff"),
+    url("https://db.onlinewebfonts.com/t/c37ebc407f70aab40021fa0177b57637.ttf") format("truetype"),
+    url("https://db.onlinewebfonts.com/t/c37ebc407f70aab40021fa0177b57637.svg#Charade W00 Regular") format("svg");
+}
+@font-face {
+  font-family: FuturaEBC;
+  src: url("https://db.onlinewebfonts.com/t/35e76f5f0525b62c69ebade19a3ee8f4.eot");
+  src: url("https://db.onlinewebfonts.com/t/35e76f5f0525b62c69ebade19a3ee8f4.eot?#iefix") format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/35e76f5f0525b62c69ebade19a3ee8f4.woff2") format("woff2"), url("https://db.onlinewebfonts.com/t/35e76f5f0525b62c69ebade19a3ee8f4.woff") format("woff"),
+    url("https://db.onlinewebfonts.com/t/35e76f5f0525b62c69ebade19a3ee8f4.ttf") format("truetype"),
+    url("https://db.onlinewebfonts.com/t/35e76f5f0525b62c69ebade19a3ee8f4.svg#Futura Condensed Extra Bold") format("svg");
+}
+@font-face {
+  font-family: FuturaRegular;
+  src: url("https://db.onlinewebfonts.com/t/7150534f1c3c68d8ed34eb3090c126b3.eot");
+  src: url("https://db.onlinewebfonts.com/t/7150534f1c3c68d8ed34eb3090c126b3.eot?#iefix") format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/7150534f1c3c68d8ed34eb3090c126b3.woff2") format("woff2"), url("https://db.onlinewebfonts.com/t/7150534f1c3c68d8ed34eb3090c126b3.woff") format("woff"),
+    url("https://db.onlinewebfonts.com/t/7150534f1c3c68d8ed34eb3090c126b3.ttf") format("truetype"),
+    url("https://db.onlinewebfonts.com/t/7150534f1c3c68d8ed34eb3090c126b3.svg#Futura Regular") format("svg");
+}
