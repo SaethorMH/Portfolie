@@ -111,6 +111,9 @@ menu {
     color: var(--beige);
   }
 }
+.omMig:hover {
+  background-color: var(--red);
+}
 /*DROPDOWN*/
 .dropbtn {
   font-family: FuturaEBC;
@@ -154,7 +157,7 @@ menu {
 }
 
 .dropdown:hover .dropbtn {
-  background-color: var(--orange);
+  background-color: var(--red);
 }
 
 /****Generalle regler*****/
@@ -202,4 +205,47 @@ h1 {
 }
 .g {
   background-color: var(--beige);
+}
+/******Frontpage numbers*******/
+nr {
+  position: relative;
+  color: var(--yellow);
+  font-family: Charade;
+  cursor: pointer;
+  font-size: 9rem;
+  text-shadow: 2px 2px 0px var(--orange), 4px 4px 0px var(--red), 6px 6px 0px var(--purple), 8px 8px 0px var(--purplish);
+
+  transition: 0.5s ease-in-out;
+  z-index: 0;
+}
+nr:hover {
+  text-shadow: 2px 5px 0px var(--orange), 4px 10px 0px var(--red), 6px 15px 0px var(--purple), 8px 20px 0px var(--purplish);
+
+  z-index: 20;
+}
+.numbers {
+  /* display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr; */
+  margin: auto;
+}
+
+/*****************Making it groovy****************/
+
+h2 {
+  margin: auto;
+  width: fit-content;
+  padding: 20px;
+
+  border-radius: 20px;
+  background-color: var(--yellow);
+  box-shadow: 2px 2px 0px var(--orange), 4px 4px 0px var(--red), 6px 6px 0px var(--purple), 8px 8px 0px var(--purplish);
+}
+p {
+  margin: 5vh auto;
+  width: fit-content;
+  padding: 20px;
+
+  border-radius: 20px;
+  background-color: var(--yellow);
+  box-shadow: 2px 2px 0px var(--orange), 4px 4px 0px var(--red), 6px 6px 0px var(--purple), 8px 8px 0px var(--purplish);
 }
